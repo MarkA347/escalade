@@ -1,0 +1,27 @@
+p {
+	color:#f8d796;
+	text-indent:50px
+}
+h2{
+	color:#f8d796;
+	text-align:center
+}
+body {
+	background-color:#009999;
+	/*background-size:cover;
+	background-image:url('https://img.ixbt.site/live/topics/preview/00/05/40/68/0125ef54bd.jpg');*/
+}
+h1{
+	text-align:center;
+	color:#f8d796;
+}
+table {
+	border:1px solid red;
+	border-collapse:collapse;
+}
+td{
+	border:1px solid red;
+}
+ul{
+	list-style:url("icons8-гора-15.png");
+}
